@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alexbot
 
 alexbot is a chat bot built on the [Hubot][hubot] framework. It was
@@ -212,3 +213,7 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+=======
+# chatops
+Test
+>>>>>>> 7118ebd127c777a68e91f5e86b8658c2aa6fedea
